@@ -1,0 +1,24 @@
+.e_main{
+    width: 100%;
+    height: 100vh;
+    float: left;
+}
+
+#kv{
+    transition: 0.5s;
+}
+
+.left{
+    width: 100%;
+    height: 100vh;
+    float: left;
+}
+.right{
+    width: 100%;
+    height: 100vh;
+    float: left;
+}
+
+.bs{
+    background-color: silver;
+}
